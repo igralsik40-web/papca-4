@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+.container{
+    width: 1240px;
+    margin: auto; 
+    font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+header div{
+    display: flex;
+    align-items: center;
+}
+span{
+    color: #4D77FF;
+}
+nav{
+    margin-left: 40px;
+    display: flex;
+    gap: 40px;
+}
+.white{
+    border: none;
+    background-color: white;
+    padding: 12px 22px;
+}
+.blue{
+    border: none;
+    background-color: #4D77FF;
+    padding: 12px 22px;
+    color: white;
+    border-radius: 10px;
+}
+.text-tive h1{
+    font-size: 54px;
+    margin-bottom: 26px;
+}
+.text-tive p{
+    font-size: 14px;
+    color: #696969;
+    margin-bottom: 26px;
+}
+.text-tive .blue{
+    margin-bottom: 26px;
+}
+.sect{
+    display: flex;
+    align-items: center;
+}
+.sect2{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 179px;
+}
+.sect2 h5{
+    font-size: 14px;
+    color: #4D77FF;
+}
+.sect2 h2{
+    font-size: 32px;
+}
+.d{
+    text-align: start;
+    width: 287px;
+    border-top: 3px solid #4D77FF;
+    padding: 53px 43px;
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    box-shadow: 0px 10px 40px 0px #1212121A;
+    margin-top: 50px;
+}
+.d img{
+    width: 40px;
+}
+.dd{
+    display: flex;
+    gap: 30px;
+}
+.galocha{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 14px;
+}
+.text-tive h6{
+    color: #4D77FF;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.sect3{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 141px;
+}
+.cardD{
+    position: absolute; 
+    width: 202px;
+}
+.sect6{
+    text-align: center;
+    margin-bottom: 221px ;
+}
+.sect6 h2{
+    font-size: 32px;
+}
+.sect6 p{
+    font-size: 14px;
+    color: #696969;
+    margin-bottom: 120px;
+}
+.chel{
+    display: flex;
+    text-align: start;
+    justify-content: space-between;
+}
+.texts h3{
+    margin-top: 134px;
+    font-size: 20px;
+}
+.texts p{
+    font-size: 25px;
+}
+.sect4{
+    margin-bottom: 166px;
+}
+.docss{
+    display: flex;
+    justify-content: space-between;
+}
+.texts-sect4 p{
+    margin-top: 26px;
+    font-size: 14px;
+}
+.texts-sect4 h6{
+    font-size: 14px;
+}
+.texts-sect4 h2{
+    font-size: 32px;
+}
+.texts-sect4{
+    flex-direction: column;
+    margin-left: 70px;
+}
+.sect5{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 141px; 
+ 
+}
+.sect5 h5{
+    font-size: 14px;
+    color: #4D77FF;
+}
+.sect5 h2{
+    font-size: 32px;
+}
+.sect5 .d{
+    text-align: center;
+}
+.sect5 .dd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 500px;
+}
+
+
+
